@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+<!--    <style name="Theme.DemoApp" parent="Theme.AppCompat.DayNight.DarkActionBar">-->
+<!--        &lt;!&ndash; Customize your light theme here. &ndash;&gt;-->
+<!--         <item name="colorPrimary">@color/white</item>-->
+<!--    </style>-->
+
+    <style name="Theme.FoodDeliveryApp" parent="Base.Theme.FoodDeliveryApp" >
+        <item name="colorPrimary">@color/white</item>
+    </style>
+</resources>

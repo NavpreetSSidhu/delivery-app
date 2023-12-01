@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Food Delivery App</string>
+    <string name="cafe_house">Cafe House</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="skip">Skip</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="_123456789">+123456789</string>
+    <string name="name_name_com">name@name.com</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="or_with">Or With</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="already_have_a_account_login">Already have a account? Login</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register</string>
+    <string name="delivery_app">Delivery App</string>
+</resources>
